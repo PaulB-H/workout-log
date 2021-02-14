@@ -1,24 +1,23 @@
-# Workout Log
+<h3 class="projectHeader">Workout Log</h3>
 
-<h4>Tech</h4>
-<p>HTML, CSS, JS</p>
-<hr />
-<h4>Libraries</h4>
-<p>
-  <a href="https://izitoast.marcelodolza.com/" target="_blank">
-      izitoast.js
-  </a>
-	/ 
-  <a href="https://remixicon.com/" target="_blank">
-  	remixicon
-  </a>
-  / Google Fonts
+<p class="projectDesc">
+  I wanted to make a lightweight, easy to use, workout tracker that
+  had only the necessary features. Add exercises to a workout with a
+  title, and set number, then specify weight and reps. There is even
+  an option to add notes for each exercise.
 </p>
-<hr />
-<h4>Features</h4>
-<p>- Add exercises to a workout with a title and set number, then add weight and reps</p>
-<p>- Save and view workouts (currently using local storage)</p>
-<hr />
-<a href="https://paulb-h.github.io/workout-log/" target="_blank">
-	Live Site
-</a>
+<p class="projectDesc">
+  I used izitoast, my favorite modal / popup library to help make
+  inputting data easy and intuitive. This is a good candidate to be
+  re-build with MERN. Currently it is only using localstorage.
+</p>
+
+<div class="project-links">
+  <a
+    class="livelink"
+    href="https://paulb-h.github.io/workout-log/"
+    target="_blank"
+  >
+    <p>- Live Site</p>
+  </a>
+</div>
