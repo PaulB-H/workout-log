@@ -1,23 +1,20 @@
-<h3 class="projectHeader">Workout Log</h3>
+<h1>Workout Log</h1>
 
-<p class="projectDesc">
-  I wanted to make a lightweight, easy to use, workout tracker that
-  had only the necessary features. Add exercises to a workout with a
-  title, and set number, then specify weight and reps. There is even
-  an option to add notes for each exercise.
-</p>
-<p class="projectDesc">
-  I used izitoast, my favorite modal / popup library to help make
-  inputting data easy and intuitive. This is a good candidate to be
-  re-build with MERN. Currently it is only using localstorage.
-</p>
+<img src="https://raw.githubusercontent.com/PaulB-H/workout-log/main/workoutlog.png" />
 
-<div class="project-links">
-  <a
-    class="livelink"
-    href="https://paulb-h.github.io/workout-log/"
-    target="_blank"
-  >
-    <p>- Live Site</p>
-  </a>
-</div>
+<h5><small>Made with:</small><br /> HTML, CSS, JS</h5>
+
+<a href="https://paulb-h.github.io/workout-log/" target="_blank">paulb-h.github.io/workout-log</a>
+
+<h2>Description</h2>
+<p>A lightweight, easy to use, workout tracker.</p>
+
+<h2>Details</h2>
+<p>Add exercises to a workout with a title, and set number, then specify weight and reps, there is also an option to add notes for each exercise.</p>
+<p>Currently only using local storage to save workouts, I would like to be able to save these to a server, or even share with other people.</p>
+
+<h2>Libraries / Frameworks / Packages</h2>
+<ul>
+<li><a href="https://github.com/marcelodolza/iziToast" target="_blank">iziToast</a></li>
+<li><a href="https://remixicon.com/" target="_blank">Remix Icon</a></li>
+</ul>
